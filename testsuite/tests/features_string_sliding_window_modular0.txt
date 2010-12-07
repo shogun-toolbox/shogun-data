@@ -1,0 +1,16 @@
+ccopy_reg
+_reconstructor
+p0
+(cshogun.Features
+StringCharFeatures
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(I01
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nalphabet SGSerializable* Alphabet [\nalphabet int32 0\nnum_symbols int32 4\nnum_bits int32 2\n]\nfeatures Vector<String<char>> 4 ({8 [{65}{65}{65}{65}{65}{65}{65}{65}]}{8 [{65}{65}{65}{65}{67}{67}{67}{67}]}{8 [{67}{67}{67}{67}{71}{71}{71}{71}]}{8 [{71}{71}{71}{71}{71}{84}{84}{84}]})\nsingle_string Vector<char> 40 ({65}{65}{65}{65}{65}{65}{65}{65}{65}{65}{67}{67}{67}{67}{67}{67}{67}{67}{67}{67}{71}{71}{71}{71}{71}{71}{71}{71}{71}{71}{84}{84}{84}{84}{84}{84}{84}{84}{84}{84})\nmax_string_length int32 8\nnum_symbols floatmax 4\noriginal_num_symbols floatmax 4\norder int32 0\npreprocess_on_get bool f\n'
+p5
+tp6
+b.
