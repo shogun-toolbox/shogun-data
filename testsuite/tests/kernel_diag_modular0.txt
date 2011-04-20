@@ -62,7 +62,7 @@ p23
 Ntp24
 Rp25
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\ncache_size int32 10\nlhs SGSerializable* DummyFeatures [\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nnum_vectors int32 10\n]\nrhs SGSerializable* DummyFeatures [\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nnum_vectors int32 17\n]\nlhs_equals_rhs bool f\nnum_lhs int32 10\nnum_rhs int32 17\ncombined_kernel_weight float64 1\noptimization_initialized bool f\nopt_type int32 0\nproperties uint64 0\nnormalizer SGSerializable* IdentityKernelNormalizer [\nm_type int32 0\n]\ndiag float64 23\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\ncache_size int32 10\nlhs SGSerializable* DummyFeatures [\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_idx Vector<int32> 0 ()\nnum_vectors int32 10\n]\nrhs SGSerializable* DummyFeatures [\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_idx Vector<int32> 0 ()\nnum_vectors int32 17\n]\nlhs_equals_rhs bool f\nnum_lhs int32 10\nnum_rhs int32 17\ncombined_kernel_weight float64 1\noptimization_initialized bool f\nopt_type int32 0\nproperties uint64 0\nnormalizer SGSerializable* IdentityKernelNormalizer [\nm_type int32 0\n]\ndiag float64 23\n'
 p26
 tp27
 btp28

@@ -76,7 +76,7 @@ p30
 Ntp31
 Rp32
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nalphabet SGSerializable* Alphabet [\nalphabet int32 7\nnum_symbols int32 256\nnum_bits int32 8\n]\nfeatures Vector<String<uint16>> 3 ({5 [{1}{2}{3}{4}{5}]}{4 [{103}{26485}{30073}{31091}]}{6 [{115}{29556}{29810}{29289}{26990}{28263}]})\nsingle_string Vector<uint16> 0 ()\nmax_string_length int32 6\nnum_symbols floatmax 65536\noriginal_num_symbols floatmax 256\norder int32 2\npreprocess_on_get bool f\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_idx Vector<int32> 0 ()\nalphabet SGSerializable* Alphabet [\nalphabet int32 7\nnum_symbols int32 256\nnum_bits int32 8\n]\nfeatures Vector<String<uint16>> 3 ({5 [{1}{2}{3}{4}{5}]}{4 [{103}{26485}{30073}{31091}]}{6 [{115}{29556}{29810}{29289}{26990}{28263}]})\nsingle_string Vector<uint16> 0 ()\nmax_string_length int32 6\nmax_string_length_total int32 6\nnum_symbols floatmax 65536\noriginal_num_symbols floatmax 256\norder int32 2\npreprocess_on_get bool f\n'
 p33
 tp34
 btp35

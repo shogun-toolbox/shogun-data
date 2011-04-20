@@ -46,7 +46,7 @@ p17
 Ntp18
 Rp19
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nproperties uint64 1\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\ncombined_weight float64 1\nnum_vectors int32 3\nnum_features int32 6\nfeature_matrix Matrix<uint8> 6 3 ({1}{4}{0}{0}{0}{9}{2}{0}{0}{5}{0}{9}{3}{0}{0}{0}{6}{9})\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nproperties uint64 1\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_idx Vector<int32> 0 ()\ncombined_weight float64 1\nnum_vectors int32 3\nnum_features int32 6\nfeature_matrix Matrix<uint8> 6 3 ({1}{4}{0}{0}{0}{9}{2}{0}{0}{5}{0}{9}{3}{0}{0}{0}{6}{9})\n'
 p20
 tp21
 btp22
