@@ -1,0 +1,16 @@
+ccopy_reg
+_reconstructor
+p0
+(cmodshogun
+GMM
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(I01
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 0\nm_components SGVector<SGSerializable*> 2 ({Gaussian [\nversion_parameter int32 0\nm_u SGMatrix<float64> 2 2 ({0.2571821148993448}{-0.9663629544720247}{-0.9663629544720247}{-0.2571821148993448})\nm_d SGVector<float64> 2 ({0.07461820785454844}{1.008359759931135})\nm_mean SGVector<float64> 2 ({1.095224854374844}{1.025912936245946})\nm_constant float64 1.088708415049976\nm_cov_type int32 0\n]}{Gaussian [\nversion_parameter int32 0\nm_u SGMatrix<float64> 2 2 ({-0.9981194801028681}{0.06129847827785144}{0.06129847827785144}{0.9981194801028681})\nm_d SGVector<float64> 2 ({0.2802067541858119}{1.101043901375631})\nm_mean SGVector<float64> 2 ({-0.9792187846724103}{-0.8681959305664735})\nm_constant float64 2.499785323361261\nm_cov_type int32 0\n]})\nm_coefficients SGVector<float64> 2 ({0.3086852004465957}{0.6913147995534042})\n'
+p5
+tp6
+b.

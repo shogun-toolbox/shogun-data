@@ -11,8 +11,8 @@ p3
 tp4
 Rp5
 (I1
-(I104
-I1
+(I1
+I104
 tp6
 cnumpy
 dtype

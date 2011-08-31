@@ -14,7 +14,7 @@ p6
 accopy_reg
 _reconstructor
 p7
-(cshogun.Features
+(cmodshogun
 StringCharFeatures
 p8
 c__builtin__
@@ -23,7 +23,7 @@ p9
 Ntp10
 Rp11
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_idx Vector<int32> 0 ()\nalphabet SGSerializable* Alphabet [\nalphabet int32 7\nnum_symbols int32 256\nnum_bits int32 8\n]\nfeatures Vector<String<char>> 6 ({4 [{116}{101}{115}{116}]}{4 [{103}{117}{121}{115}]}{1 [{105}]}{2 [{97}{109}]}{1 [{97}]}{6 [{115}{116}{114}{105}{110}{103}]})\nsingle_string Vector<char> 0 ()\nmax_string_length int32 6\nmax_string_length_total int32 6\nnum_symbols floatmax 256\noriginal_num_symbols floatmax 256\norder int32 0\npreprocess_on_get bool f\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 0\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset SGSerializable* null []\nalphabet SGSerializable* Alphabet [\nversion_parameter int32 0\nalphabet int32 7\nnum_symbols int32 256\nnum_bits int32 8\n]\nfeatures Vector<String<char>> 6 ({4 [{116}{101}{115}{116}]}{4 [{103}{117}{121}{115}]}{1 [{105}]}{2 [{97}{109}]}{1 [{97}]}{6 [{115}{116}{114}{105}{110}{103}]})\nsingle_string Vector<char> 0 ()\nmax_string_length int32 6\nnum_symbols floatmax 256\noriginal_num_symbols floatmax 256\norder int32 0\npreprocess_on_get bool f\n'
 p12
 tp13
 btp14

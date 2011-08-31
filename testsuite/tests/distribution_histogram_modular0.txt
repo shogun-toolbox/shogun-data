@@ -1,7 +1,7 @@
 (ccopy_reg
 _reconstructor
 p0
-(cshogun.Distribution
+(cmodshogun
 Histogram
 p1
 c__builtin__
@@ -10,7 +10,7 @@ p2
 Ntp3
 Rp4
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 0\n'
 p5
 tp6
 bF72.119681477478494
