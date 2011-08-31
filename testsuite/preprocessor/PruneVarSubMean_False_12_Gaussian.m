@@ -1,6 +1,6 @@
 init_random = 42;
 kernel_feature_type = 'Real';
-preproc_arg0_divide = 'False';
+preprocessor_arg0_divide = 'False';
 kernel_arg0_width = 1.2;
 preprocessor_name = 'PruneVarSubMean';
 kernel_accuracy = 1e-08;
