@@ -1,4 +1,4 @@
-regression_name = 'KRR';
+regression_name = 'KernelRidgeRegression';
 regression_accuracy = 1e-08;
 init_random = 42;
 kernel_feature_type = 'Real';
