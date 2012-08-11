@@ -1,4 +1,4 @@
-distance_name = 'EuclidianDistance';
+distance_name = 'EuclideanDistance';
 init_random = 42;
 clustering_k = 3;
 clustering_accuracy = 1e-08;
