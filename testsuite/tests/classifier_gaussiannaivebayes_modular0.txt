@@ -1,5 +1,5 @@
-(ccopy_reg
-_reconstructor
+(cmodshogun
+_sg_reconstructor
 p0
 (cmodshogun
 GaussianNaiveBayes
@@ -10,7 +10,7 @@ p2
 Ntp3
 Rp4
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 0\nmax_train_time float64 0\nsolver_type int32 0\nlabels SGSerializable* Labels [\nversion_parameter int32 0\nlabels SGVector<float64> 92 ({0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3})\nsubset SGSerializable* null []\n]\nstore_model_features bool f\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nmax_train_time float64 0\nsolver_type int32 0\nlabels SGSerializable* MulticlassLabels [\nversion_parameter int32 1\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nlabels SGVector<float64> 92 ({0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{0}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{1}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{2}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3}{3})\n]\nstore_model_features bool f\ndata_locked bool f\nmachines SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nm_multiclass_type SGSerializable* MulticlassOneVsRestStrategy [\nversion_parameter int32 1\nrejection_strategy SGSerializable* null []\nnum_classes int32 4\n]\nm_machine SGSerializable* null []\n'
 p5
 tp6
 bI01

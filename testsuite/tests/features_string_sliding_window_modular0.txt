@@ -1,5 +1,5 @@
-ccopy_reg
-_reconstructor
+cmodshogun
+_sg_reconstructor
 p0
 (cmodshogun
 StringCharFeatures
@@ -10,7 +10,7 @@ p2
 Ntp3
 Rp4
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 0\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset SGSerializable* null []\nalphabet SGSerializable* Alphabet [\nversion_parameter int32 0\nalphabet int32 0\nnum_symbols int32 4\nnum_bits int32 2\n]\nfeatures Vector<String<char>> 4 ({8 [{65}{65}{65}{65}{65}{65}{65}{65}]}{8 [{65}{65}{65}{65}{67}{67}{67}{67}]}{8 [{67}{67}{67}{67}{71}{71}{71}{71}]}{8 [{71}{71}{71}{71}{71}{84}{84}{84}]})\nsingle_string Vector<char> 40 ({65}{65}{65}{65}{65}{65}{65}{65}{65}{65}{67}{67}{67}{67}{67}{67}{67}{67}{67}{67}{71}{71}{71}{71}{71}{71}{71}{71}{71}{71}{84}{84}{84}{84}{84}{84}{84}{84}{84}{84})\nmax_string_length int32 8\nnum_symbols floatmax 4\noriginal_num_symbols floatmax 4\norder int32 0\npreprocess_on_get bool f\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 0\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nalphabet SGSerializable* Alphabet [\nversion_parameter int32 1\nalphabet int32 0\nnum_symbols int32 4\nnum_bits int32 2\n]\nfeatures Vector<String<char>> 4 ({8 [{65}{65}{65}{65}{65}{65}{65}{65}]}{8 [{65}{65}{65}{65}{67}{67}{67}{67}]}{8 [{67}{67}{67}{67}{71}{71}{71}{71}]}{8 [{71}{71}{71}{71}{71}{84}{84}{84}]})\nsingle_string Vector<char> 40 ({65}{65}{65}{65}{65}{65}{65}{65}{65}{65}{67}{67}{67}{67}{67}{67}{67}{67}{67}{67}{71}{71}{71}{71}{71}{71}{71}{71}{71}{71}{84}{84}{84}{84}{84}{84}{84}{84}{84}{84})\nmax_string_length int32 8\nnum_symbols floatmax 4\noriginal_num_symbols floatmax 4\norder int32 0\npreprocess_on_get bool f\nmask_table Vector<char> 0 ()\n'
 p5
 tp6
 b.

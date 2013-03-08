@@ -1,5 +1,5 @@
-(ccopy_reg
-_reconstructor
+(cmodshogun
+_sg_reconstructor
 p0
 (cmodshogun
 Histogram
@@ -10,10 +10,10 @@ p2
 Ntp3
 Rp4
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 0\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\n'
 p5
 tp6
-bF72.119681477478494
+bF72.1196814774785
 cnumpy.core.multiarray
 _reconstruct
 p7
