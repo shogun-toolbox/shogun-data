@@ -10,7 +10,7 @@ p2
 Ntp3
 Rp4
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\ncache_size int32 10\nlhs SGSerializable* null []\nrhs SGSerializable* null []\nlhs_equals_rhs bool f\nnum_lhs int32 0\nnum_rhs int32 0\ncombined_kernel_weight float64 1\noptimization_initialized bool f\nopt_type int32 0\nproperties uint64 0\nnormalizer SGSerializable* IdentityKernelNormalizer [\nversion_parameter int32 1\nm_type int32 0\n]\nwidth float64 2\ncompact bool f\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\ncache_size int32 10\nlhs SGSerializable* null []\nrhs SGSerializable* null []\nlhs_equals_rhs bool f\nnum_lhs int32 0\nnum_rhs int32 0\ncombined_kernel_weight float64 1\noptimization_initialized bool f\nopt_type int32 0\nproperties uint64 0\nnormalizer SGSerializable* IdentityKernelNormalizer [\nversion_parameter int32 1\nm_type int32 0\n]\nwidth float64 8\ncompact bool f\n'
 p5
 tp6
 b(lp7
@@ -20,10 +20,10 @@ aI01
 aI01
 aI01
 a(lp8
-I00
+I01
 aI01
 aI01
 aI01
-aI00
+aI01
 atp9
 .
