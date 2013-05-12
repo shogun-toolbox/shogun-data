@@ -104,7 +104,7 @@ p39
 Ntp40
 Rp41
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 1\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncombined_weight float64 1\nnum_vectors int32 3\nnum_features int32 6\nfeature_matrix SGMatrix<float64> 6 3 ({1}{4}{0}{0}{0}{9}{2}{0}{0}{5}{0}{9}{3}{0}{0}{0}{6}{9})\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 1\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncombined_weight float64 1\nnum_vectors int32 3\nnum_features int32 6\nfeature_matrix SGMatrix<float64> 6 3 ({1}{4}{0}{0}{0}{9}{2}{0}{0}{5}{0}{9}{3}{0}{0}{0}{6}{9})\n'
 p42
 tp43
 bg37
@@ -115,7 +115,7 @@ g39
 Ntp45
 Rp46
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 1\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncombined_weight float64 1\nnum_vectors int32 3\nnum_features int32 6\nfeature_matrix SGMatrix<int64> 6 3 ({1}{4}{0}{0}{0}{9}{2}{0}{0}{5}{0}{9}{3}{0}{0}{0}{6}{9})\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 1\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncombined_weight float64 1\nnum_vectors int32 3\nnum_features int32 6\nfeature_matrix SGMatrix<int64> 6 3 ({1}{4}{0}{0}{0}{9}{2}{0}{0}{5}{0}{9}{3}{0}{0}{0}{6}{9})\n'
 p47
 tp48
 bg37
@@ -126,7 +126,7 @@ g39
 Ntp50
 Rp51
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 1\ncache_size int32 0\npreproc Vector<SGSerializable*> 0 ()\npreprocessed Vector<bool> 0 ()\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncombined_weight float64 1\nnum_vectors int32 3\nnum_features int32 6\nfeature_matrix SGMatrix<uint8> 6 3 ({1}{4}{0}{0}{0}{9}{2}{0}{0}{5}{0}{9}{3}{0}{0}{0}{6}{9})\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 1\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncombined_weight float64 1\nnum_vectors int32 3\nnum_features int32 6\nfeature_matrix SGMatrix<uint8> 6 3 ({1}{4}{0}{0}{0}{9}{2}{0}{0}{5}{0}{9}{3}{0}{0}{0}{6}{9})\n'
 p52
 tp53
 btp54
