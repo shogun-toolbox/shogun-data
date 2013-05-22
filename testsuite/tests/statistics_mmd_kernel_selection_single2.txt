@@ -14,14 +14,14 @@ S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\ncache_si
 p5
 tp6
 b(lp7
-I00
+I01
 aI01
 aI01
 aI01
 aI01
 a(lp8
 I01
-aI01
+aI00
 aI01
 aI01
 aI01
