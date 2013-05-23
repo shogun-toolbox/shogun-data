@@ -1,7 +1,7 @@
 cmodshogun
 _sg_reconstructor
 p0
-(cshogun.Features.modshogun
+(cmodshogun
 RealFeatures
 p1
 c__builtin__
