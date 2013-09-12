@@ -1,0 +1,16 @@
+cmodshogun
+_sg_reconstructor
+p0
+(cmodshogun
+SparseRealFeatures
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(I01
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 1\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncombined_weight float64 1\nsparse_feature_matrix Vector<Sparse<float64>> 4 ({10 ( 2 {0.2357022603955159} 7 {0.2357022603955159} 9 {0.4714045207910317} 11 {0.2357022603955159} 16 {0.2357022603955159} 17 {0.2357022603955159} 18 {0.2357022603955159} 19 {0.2357022603955159} 22 {0.2357022603955159} 23 {0.2357022603955159})}{10 ( 2 {0.2357022603955159} 7 {0.2357022603955159} 9 {0.4714045207910317} 11 {0.2357022603955159} 16 {0.2357022603955159} 17 {0.2357022603955159} 18 {0.2357022603955159} 19 {0.2357022603955159} 22 {0.2357022603955159} 23 {0.2357022603955159})}{9 ( 2 {0.2357022603955159} 9 {0.4714045207910317} 11 {0.4714045207910317} 16 {0.2357022603955159} 17 {0.2357022603955159} 18 {0.2357022603955159} 19 {0.2357022603955159} 22 {0.2357022603955159} 23 {0.2357022603955159})}{10 ( 2 {0.2357022603955159} 5 {0.2357022603955159} 9 {0.4714045207910317} 11 {0.2357022603955159} 16 {0.2357022603955159} 17 {0.2357022603955159} 18 {0.2357022603955159} 19 {0.2357022603955159} 22 {0.2357022603955159} 23 {0.2357022603955159})})\nsparse_feature_matrix.num_features int32 32\n'
+p5
+tp6
+b.

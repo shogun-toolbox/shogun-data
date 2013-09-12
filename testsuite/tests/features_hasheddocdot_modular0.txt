@@ -1,0 +1,16 @@
+cmodshogun
+_sg_reconstructor
+p0
+(cmodshogun
+HashedDocDotFeatures
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(I01
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperties uint64 1\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncombined_weight float64 1\nnum_bits int32 5\nngrams int32 1\ntokens_to_skip int32 0\ndoc_collection SGSerializable* StringFeatures char [\nversion_parameter int32 1\nproperties uint64 0\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nalphabet SGSerializable* Alphabet [\nversion_parameter int32 1\nalphabet int32 7\nnum_symbols int32 256\nnum_bits int32 8\n]\nfeatures Vector<String<char>> 6 ({3 [{104}{101}{121}]}{4 [{103}{117}{121}{115}]}{1 [{105}]}{2 [{97}{109}]}{1 [{97}]}{6 [{115}{116}{114}{105}{110}{103}]})\nsingle_string Vector<char> 0 ()\nmax_string_length int32 6\nnum_symbols floatmax 256\noriginal_num_symbols floatmax 256\norder int32 0\npreprocess_on_get bool f\nmask_table Vector<char> 0 ()\n]\ntokenizer SGSerializable* NGramTokenizer [\nversion_parameter int32 1\ntext SGVector<char> 0 ()\nn int32 8\nlast_idx int32 0\n]\nshould_normalize bool t\n'
+p5
+tp6
+b.
