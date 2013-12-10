@@ -13,5 +13,5 @@ Every new revision must be committed in shogun as well.  After merging
 new commits to `shogun-date`, you need to commit the new revision to
 the `shogun` repository:
 
-   `cd data && git checkout master && cd ..`
+   `cd data && git fetch && git rebase && cd ..`
    `git add data && git commit -m "updating revision of data submodule"`
