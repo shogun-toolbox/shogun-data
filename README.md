@@ -9,8 +9,8 @@ checkout (or clone) the source repository https://github.com/shogun-toolbox/shog
 and issue ```git submodule update --init``` in the root directory.
 Then, fetch the data files by simply doing ```git submodule update```.
 
-Every new revision must be committed in shogun as well.  After merging
-new commits to `shogun-date`, you need to commit the new revision to
+Every new revision must be committed in Shogun as well.  After merging
+new commits to `shogun-data`, you need to commit the new revision to
 the `shogun` repository:
 
    `cd data && git checkout master && cd ..`
