@@ -1,0 +1,23 @@
+cmodshogun
+_sg_reconstructor
+p0
+(cmodshogun
+StringFileCharFeatures
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(I01
+c_codecs
+encode
+p5
+(V<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\u000aversion_parameter int32 1\u000aproperties uint64 0\u000acache_size int32 0\u000apreproc SGSerializable* DynamicObjectArray [\u000aversion_parameter int32 1\u000aarray Vector<SGSerializable*> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000apreprocessed SGSerializable* DynamicArray bool [\u000aversion_parameter int32 1\u000aarray Vector<bool> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000asubset_stack SGSerializable* SubsetStack [\u000aversion_parameter int32 1\u000aactive_subset SGSerializable* null []\u000aactive_subsets_stack SGSerializable* DynamicObjectArray [\u000aversion_parameter int32 1\u000aarray Vector<SGSerializable*> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000a]\u000aalphabet SGSerializable* Alphabet [\u000aversion_parameter int32 1\u000aalphabet int32 7\u000anum_symbols int32 256\u000anum_bits int32 8\u000a]\u000afeatures Vector<String<char>> 12 ({21 [{35}{33}{47}{117}{115}{114}{47}{98}{105}{110}{47}{101}{110}{118}{32}{112}{121}{116}{104}{111}{110}]}{59 [{112}{97}{114}{97}{109}{101}{116}{101}{114}{95}{108}{105}{115}{116}{32}{61}{32}{91}{91}{39}{102}{101}{97}{116}{117}{114}{101}{115}{95}{115}{116}{114}{105}{110}{103}{95}{102}{105}{108}{101}{95}{99}{104}{97}{114}{95}{109}{111}{100}{117}{108}{97}{114}{46}{112}{121}{39}{93}{93}]}{0 []}{46 [{100}{101}{102}{32}{102}{101}{97}{116}{117}{114}{101}{115}{95}{115}{116}{114}{105}{110}{103}{95}{102}{105}{108}{101}{95}{99}{104}{97}{114}{95}{109}{111}{100}{117}{108}{97}{114}{32}{40}{102}{110}{97}{109}{101}{41}{58}]}{54 [{9}{102}{114}{111}{109}{32}{109}{111}{100}{115}{104}{111}{103}{117}{110}{32}{105}{109}{112}{111}{114}{116}{32}{83}{116}{114}{105}{110}{103}{70}{105}{108}{101}{67}{104}{97}{114}{70}{101}{97}{116}{117}{114}{101}{115}{44}{32}{82}{65}{87}{66}{89}{84}{69}]}{43 [{9}{102}{32}{61}{32}{83}{116}{114}{105}{110}{103}{70}{105}{108}{101}{67}{104}{97}{114}{70}{101}{97}{116}{117}{114}{101}{115}{40}{102}{110}{97}{109}{101}{44}{32}{82}{65}{87}{66}{89}{84}{69}{41}]}{36 [{9}{35}{112}{114}{105}{110}{116}{40}{34}{115}{116}{114}{105}{110}{103}{115}{34}{44}{32}{102}{46}{103}{101}{116}{95}{102}{101}{97}{116}{117}{114}{101}{115}{40}{41}{41}]}{9 [{9}{114}{101}{116}{117}{114}{110}{32}{102}]}{0 []}{24 [{105}{102}{32}{95}{95}{110}{97}{109}{101}{95}{95}{61}{61}{39}{95}{95}{109}{97}{105}{110}{95}{95}{39}{58}]}{47 [{32}{32}{32}{32}{112}{114}{105}{110}{116}{40}{39}{67}{111}{109}{112}{114}{101}{115}{115}{105}{110}{103}{32}{83}{116}{114}{105}{110}{103}{67}{104}{97}{114}{70}{105}{108}{101}{70}{101}{97}{116}{117}{114}{101}{115}{39}{41}]}{57 [{32}{32}{32}{32}{102}{101}{97}{116}{117}{114}{101}{115}{95}{115}{116}{114}{105}{110}{103}{95}{102}{105}{108}{101}{95}{99}{104}{97}{114}{95}{109}{111}{100}{117}{108}{97}{114}{40}{42}{112}{97}{114}{97}{109}{101}{116}{101}{114}{95}{108}{105}{115}{116}{91}{48}{93}{41}]})\u000asingle_string Vector<char> 0 ()\u000amax_string_length int32 59\u000anum_symbols floatmax 256\u000aoriginal_num_symbols floatmax 256\u000aorder int32 0\u000apreprocess_on_get bool f\u000amask_table Vector<char> 0 ()\u000a
+p6
+Vlatin1
+p7
+tp8
+Rp9
+tp10
+b.

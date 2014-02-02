@@ -1,0 +1,23 @@
+cmodshogun
+_sg_reconstructor
+p0
+(cmodshogun
+HashedDocDotFeatures
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(I01
+c_codecs
+encode
+p5
+(V<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\u000aversion_parameter int32 1\u000aproperties uint64 1\u000acache_size int32 0\u000apreproc SGSerializable* DynamicObjectArray [\u000aversion_parameter int32 1\u000aarray Vector<SGSerializable*> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000apreprocessed SGSerializable* DynamicArray bool [\u000aversion_parameter int32 1\u000aarray Vector<bool> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000asubset_stack SGSerializable* SubsetStack [\u000aversion_parameter int32 1\u000aactive_subset SGSerializable* null []\u000aactive_subsets_stack SGSerializable* DynamicObjectArray [\u000aversion_parameter int32 1\u000aarray Vector<SGSerializable*> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000a]\u000acombined_weight float64 1\u000anum_bits int32 5\u000angrams int32 1\u000atokens_to_skip int32 0\u000adoc_collection SGSerializable* StringFeatures char [\u000aversion_parameter int32 1\u000aproperties uint64 0\u000acache_size int32 0\u000apreproc SGSerializable* DynamicObjectArray [\u000aversion_parameter int32 1\u000aarray Vector<SGSerializable*> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000apreprocessed SGSerializable* DynamicArray bool [\u000aversion_parameter int32 1\u000aarray Vector<bool> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000asubset_stack SGSerializable* SubsetStack [\u000aversion_parameter int32 1\u000aactive_subset SGSerializable* null []\u000aactive_subsets_stack SGSerializable* DynamicObjectArray [\u000aversion_parameter int32 1\u000aarray Vector<SGSerializable*> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000a]\u000aalphabet SGSerializable* Alphabet [\u000aversion_parameter int32 1\u000aalphabet int32 7\u000anum_symbols int32 256\u000anum_bits int32 8\u000a]\u000afeatures Vector<String<char>> 6 ({3 [{104}{101}{121}]}{4 [{103}{117}{121}{115}]}{1 [{105}]}{2 [{97}{109}]}{1 [{97}]}{6 [{115}{116}{114}{105}{110}{103}]})\u000asingle_string Vector<char> 0 ()\u000amax_string_length int32 6\u000anum_symbols floatmax 256\u000aoriginal_num_symbols floatmax 256\u000aorder int32 0\u000apreprocess_on_get bool f\u000amask_table Vector<char> 0 ()\u000a]\u000atokenizer SGSerializable* NGramTokenizer [\u000aversion_parameter int32 1\u000atext SGVector<char> 0 ()\u000an int32 8\u000alast_idx int32 0\u000a]\u000ashould_normalize bool t\u000a
+p6
+Vlatin1
+p7
+tp8
+Rp9
+tp10
+b.

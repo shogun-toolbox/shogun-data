@@ -1,0 +1,23 @@
+cmodshogun
+_sg_reconstructor
+p0
+(cmodshogun
+SparseRealFeatures
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(I01
+c_codecs
+encode
+p5
+(V<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\u000aversion_parameter int32 1\u000aproperties uint64 1\u000acache_size int32 0\u000apreproc SGSerializable* DynamicObjectArray [\u000aversion_parameter int32 1\u000aarray Vector<SGSerializable*> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000apreprocessed SGSerializable* DynamicArray bool [\u000aversion_parameter int32 1\u000aarray Vector<bool> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000asubset_stack SGSerializable* SubsetStack [\u000aversion_parameter int32 1\u000aactive_subset SGSerializable* null []\u000aactive_subsets_stack SGSerializable* DynamicObjectArray [\u000aversion_parameter int32 1\u000aarray Vector<SGSerializable*> 0 ()\u000anum_elements int32 0\u000aresize_granularity int32 128\u000ause_sg_malloc bool t\u000afree_array bool t\u000a]\u000a]\u000acombined_weight float64 1\u000asparse_feature_matrix Vector<Sparse<float64>> 4 ({10 ( 2 {0.2357022603955159} 7 {0.2357022603955159} 9 {0.4714045207910317} 11 {0.2357022603955159} 16 {0.2357022603955159} 17 {0.2357022603955159} 18 {0.2357022603955159} 19 {0.2357022603955159} 22 {0.2357022603955159} 23 {0.2357022603955159})}{10 ( 2 {0.2357022603955159} 7 {0.2357022603955159} 9 {0.4714045207910317} 11 {0.2357022603955159} 16 {0.2357022603955159} 17 {0.2357022603955159} 18 {0.2357022603955159} 19 {0.2357022603955159} 22 {0.2357022603955159} 23 {0.2357022603955159})}{9 ( 2 {0.2357022603955159} 9 {0.4714045207910317} 11 {0.4714045207910317} 16 {0.2357022603955159} 17 {0.2357022603955159} 18 {0.2357022603955159} 19 {0.2357022603955159} 22 {0.2357022603955159} 23 {0.2357022603955159})}{10 ( 2 {0.2357022603955159} 5 {0.2357022603955159} 9 {0.4714045207910317} 11 {0.2357022603955159} 16 {0.2357022603955159} 17 {0.2357022603955159} 18 {0.2357022603955159} 19 {0.2357022603955159} 22 {0.2357022603955159} 23 {0.2357022603955159})})\u000asparse_feature_matrix.num_features int32 32\u000a
+p6
+Vlatin1
+p7
+tp8
+Rp9
+tp10
+b.
