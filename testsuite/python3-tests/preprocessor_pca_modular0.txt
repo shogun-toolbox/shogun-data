@@ -1,7 +1,8 @@
 cmodshogun
 _sg_reconstructor
 p0
-(Vmodshogun.DenseFeatures
+(cmodshogun
+RealFeatures
 p1
 c__builtin__
 object
