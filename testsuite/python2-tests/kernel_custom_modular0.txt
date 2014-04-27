@@ -37,8 +37,7 @@ tp14
 bcmodshogun
 _sg_reconstructor
 p15
-(cmodshogun
-CustomKernel
+(S'modshogun.CustomKernel'
 p16
 c__builtin__
 object
@@ -46,8 +45,24 @@ p17
 Ntp18
 Rp19
 (I01
-S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\ncache_size int32 10\nlhs SGSerializable* DummyFeatures [\nversion_parameter int32 1\nproperties uint64 0\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nnum_vectors int32 7\n]\nrhs SGSerializable* DummyFeatures [\nversion_parameter int32 1\nproperties uint64 0\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nnum_vectors int32 7\n]\nlhs_equals_rhs bool f\nnum_lhs int32 7\nnum_rhs int32 7\ncombined_kernel_weight float64 1\noptimization_initialized bool f\nopt_type int32 0\nproperties uint64 0\nnormalizer SGSerializable* IdentityKernelNormalizer [\nversion_parameter int32 1\nm_type int32 0\n]\nrow_subset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncol_subset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nfree_km bool t\nkmatrix SGMatrix<float32> 7 7 ({0.5893300175666809}{1.106189608573914}{0.242714449763298}{0.6294092535972595}{1.505022644996643}{0.8152922391891479}{1.598308682441711}{1.106189608573914}{0.07812583446502686}{1.010232210159302}{1.34173059463501}{0.3523620367050171}{1.540804505348206}{1.536495923995972}{0.242714449763298}{1.010232210159302}{1.103502750396729}{1.386214017868042}{0.6823024749755859}{0.4014604389667511}{1.016501784324646}{0.6294092535972595}{1.34173059463501}{1.386214017868042}{0.8369687795639038}{0.9752678275108337}{0.5959027409553528}{0.7988181114196777}{1.505022644996643}{0.3523620367050171}{0.6823024749755859}{0.9752678275108337}{1.135982275009155}{0.9703221917152405}{1.432734966278076}{0.8152922391891479}{1.540804505348206}{0.4014604389667511}{0.5959027409553528}{0.9703221917152405}{1.59453547000885}{0.2019243985414505}{1.598308682441711}{1.536495923995972}{1.016501784324646}{0.7988181114196777}{1.432734966278076}{0.2019243985414505}{1.553949117660522})\nupper_diagonal bool f\n'
+S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\ncache_size int32 10\nlhs SGSerializable* DummyFeatures [\nversion_parameter int32 1\nproperties uint64 0\ncache_size int32 0\npreproc SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\npreprocessed SGSerializable* DynamicArray bool [\nversion_parameter int32 1\narray Vector<bool> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nnum_vectors int32 7\n]\nrhs SGSerializable* null []\nlhs_equals_rhs bool t\nnum_lhs int32 7\nnum_rhs int32 7\ncombined_kernel_weight float64 1\noptimization_initialized bool f\nopt_type int32 0\nproperties uint64 0\nnormalizer SGSerializable* IdentityKernelNormalizer [\nversion_parameter int32 1\nm_type int32 0\n]\nrow_subset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\ncol_subset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nfree_km bool t\nis_symmetric bool t\nkmatrix SGMatrix<float32> 7 7 ({0.5893300175666809}{1.106189608573914}{0.242714449763298}{0.6294092535972595}{1.505022644996643}{0.8152922391891479}{1.598308682441711}{1.106189608573914}{0.07812583446502686}{1.010232210159302}{1.34173059463501}{0.3523620367050171}{1.540804505348206}{1.536495923995972}{0.242714449763298}{1.010232210159302}{1.103502750396729}{1.386214017868042}{0.6823024749755859}{0.4014604389667511}{1.016501784324646}{0.6294092535972595}{1.34173059463501}{1.386214017868042}{0.8369687795639038}{0.9752678275108337}{0.5959027409553528}{0.7988181114196777}{1.505022644996643}{0.3523620367050171}{0.6823024749755859}{0.9752678275108337}{1.135982275009155}{0.9703221917152405}{1.432734966278076}{0.8152922391891479}{1.540804505348206}{0.4014604389667511}{0.5959027409553528}{0.9703221917152405}{1.59453547000885}{0.2019243985414505}{1.598308682441711}{1.536495923995972}{1.016501784324646}{0.7988181114196777}{1.432734966278076}{0.2019243985414505}{1.553949117660522})\nupper_diagonal bool f\n'
 p20
 tp21
-btp22
+bg0
+(g1
+(I0
+tp22
+g3
+tp23
+Rp24
+(I1
+(I3
+I2
+tp25
+g10
+I01
+S'\x00\x00\x00\xa0\xca\xdb\xe2?\x00\x00\x00\xe0\xf3\xb2\xf1?\x00\x00\x00`D\x11\xcf?\x00\x00\x00\xe0\xf3\xb2\xf1?\x00\x00\x00\x00\x0e\x00\xb4?\x00\x00\x00@\xe9)\xf0?'
+p26
+tp27
+btp28
 .
