@@ -1,8 +1,7 @@
 (cmodshogun
 _sg_reconstructor
 p0
-(cmodshogun
-MulticlassSOLabels
+(S'modshogun.MulticlassSOLabels'
 p1
 c__builtin__
 object
@@ -14,22 +13,24 @@ S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nsubset_s
 p5
 tp6
 bg0
-(g1
+(S'modshogun.MulticlassSOLabels'
+p7
 g2
-Ntp7
-Rp8
+Ntp8
+Rp9
 (I01
 S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nm_labels SGSerializable* null []\nm_num_classes int32 0\nm_num_labels_set int32 150\n'
-p9
-tp10
+p10
+tp11
 bg0
-(g1
+(S'modshogun.MulticlassSOLabels'
+p12
 g2
-Ntp11
-Rp12
+Ntp13
+Rp14
 (I01
 S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nsubset_stack SGSerializable* SubsetStack [\nversion_parameter int32 1\nactive_subset SGSerializable* null []\nactive_subsets_stack SGSerializable* DynamicObjectArray [\nversion_parameter int32 1\narray Vector<SGSerializable*> 0 ()\nnum_elements int32 0\nresize_granularity int32 128\nuse_sg_malloc bool t\nfree_array bool t\n]\n]\nm_labels SGSerializable* null []\nm_num_classes int32 0\nm_num_labels_set int32 150\n'
-p13
-tp14
-btp15
+p15
+tp16
+btp17
 .
