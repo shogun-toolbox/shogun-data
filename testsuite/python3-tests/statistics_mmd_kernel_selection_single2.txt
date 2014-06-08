@@ -1,8 +1,7 @@
 (cmodshogun
 _sg_reconstructor
 p0
-(cmodshogun
-GaussianKernel
+(Vmodshogun.GaussianKernel
 p1
 c__builtin__
 object
@@ -27,10 +26,10 @@ aI01
 aI01
 aI01
 a(lp12
-I01
+I00
 aI01
 aI01
 aI01
-aI00
+aI01
 atp13
 .
