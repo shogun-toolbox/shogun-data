@@ -1,0 +1,9 @@
+imgPath='/home/kislay/gsoc/SCENE/sample (copy)/cars/';
+imgType='*.jpg';
+imagesss=dir([imgPath imgType]);
+
+for idx=1:length(imagesss)
+    im=imread([imgPath images(idx).name]);
+    figure()
+    imwrite(im, [imgPath images(idx).name]);
+end
