@@ -12,7 +12,7 @@ Rp4
 c_codecs
 encode
 p5
-(V<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\u000aversion_parameter int32 1\u000acache_size int32 10\u000alhs SGSerializable* null []\u000arhs SGSerializable* null []\u000alhs_equals_rhs bool f\u000anum_lhs int32 0\u000anum_rhs int32 0\u000acombined_kernel_weight float64 1\u000aoptimization_initialized bool f\u000aopt_type int32 0\u000aproperties uint64 0\u000anormalizer SGSerializable* IdentityKernelNormalizer [\u000aversion_parameter int32 1\u000am_type int32 0\u000a]\u000awidth float64 512\u000acompact bool f\u000a
+(V<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\u000aversion_parameter int32 1\u000acache_size int32 10\u000alhs SGSerializable* null []\u000arhs SGSerializable* null []\u000alhs_equals_rhs bool f\u000anum_lhs int32 0\u000anum_rhs int32 0\u000acombined_kernel_weight float64 1\u000aoptimization_initialized bool f\u000aopt_type int32 0\u000aproperties uint64 0\u000anormalizer SGSerializable* IdentityKernelNormalizer [\u000aversion_parameter int32 1\u000am_type int32 0\u000a]\u000alog_width float64 2.772588722239781\u000acompact bool f\u000a
 p6
 Vlatin1
 p7
