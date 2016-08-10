@@ -1,6 +1,6 @@
 <<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>
-array Vector<SGSerializable*> 4 ({WrappedBasic int32 [
-value int32 1
+array Vector<SGSerializable*> 4 ({WrappedBasic float64 [
+value float64 1
 ]}{WrappedBasic float64 [
 value float64 0.01455988410195748
 ]}{WrappedBasic float64 [
