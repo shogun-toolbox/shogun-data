@@ -1,0 +1,16 @@
+<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>
+array Vector<SGSerializable*> 5 ({WrappedBasic int32 [
+value int32 1
+]}{WrappedBasic int32 [
+value int32 10
+]}{WrappedBasic float64 [
+value float64 161.0758132999469
+]}{WrappedBasic float64 [
+value float64 10.07338840870319
+]}{WrappedSGVector float64 [
+value SGVector<float64> 5 ({23.28941757850452}{18.88909563935801}{28.67177565946948}{14.41149657132887}{16.4739203829376})
+]})
+num_elements int32 5
+resize_granularity int32 128
+use_sg_malloc bool t
+free_array bool t
