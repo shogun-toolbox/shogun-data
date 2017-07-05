@@ -64,10 +64,10 @@ I00
 S's\x00tsrtirnign'
 p26
 tp27
-bacmodshogun
+bacshogun
 _sg_reconstructor
 p28
-(cmodshogun
+(cshogun
 StringWordFeatures
 p29
 c__builtin__

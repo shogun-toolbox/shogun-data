@@ -1,7 +1,7 @@
-(cmodshogun
+(cshogun
 _sg_reconstructor
 p0
-(Vmodshogun.MulticlassLabels
+(Vshogun.MulticlassLabels
 p1
 c__builtin__
 object
@@ -20,7 +20,7 @@ tp8
 Rp9
 tp10
 bg0
-(Vmodshogun.LaRank
+(Vshogun.LaRank
 p11
 g2
 Ntp12

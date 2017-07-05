@@ -36,7 +36,7 @@ tp14
 bccopy_reg
 _reconstructor
 p15
-(cmodshogun
+(cshogun
 GaussianKernel
 p16
 c__builtin__
@@ -49,7 +49,7 @@ S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 0\ncache_si
 p20
 tp21
 bg15
-(cmodshogun
+(cshogun
 KRR
 p22
 g17

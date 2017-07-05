@@ -7,7 +7,7 @@ aVparameter_list=[[strings]]
 p3
 aVdef features_string_char_modular (strings):
 p4
-aV	from modshogun import StringCharFeatures, RAWBYTE
+aV	from shogun import StringCharFeatures, RAWBYTE
 p5
 aV	from numpy import array
 p6
@@ -41,10 +41,10 @@ aV	print('StringCharFeatures')
 p20
 aV	features_string_char_modular(*parameter_list[0])
 p21
-acmodshogun
+acshogun
 _sg_reconstructor
 p22
-(cmodshogun
+(cshogun
 StringCharFeatures
 p23
 c__builtin__

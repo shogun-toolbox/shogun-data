@@ -1,7 +1,7 @@
-(cmodshogun
+(cshogun
 _sg_reconstructor
 p0
-(cmodshogun
+(cshogun
 BinaryLabels
 p1
 c__builtin__
@@ -21,7 +21,7 @@ tp8
 Rp9
 tp10
 bg0
-(cmodshogun
+(cshogun
 SVMOcas
 p11
 g2

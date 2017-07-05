@@ -1,9 +1,9 @@
 (F0.9280088216761185
 F0.717391304347826
-cmodshogun
+cshogun
 _sg_reconstructor
 p0
-(cmodshogun
+(cshogun
 MulticlassLabels
 p1
 c__builtin__
@@ -16,7 +16,7 @@ S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nsubset_s
 p5
 tp6
 bg0
-(cmodshogun
+(cshogun
 MulticlassLibLinear
 p7
 g2

@@ -1,7 +1,7 @@
-(cmodshogun
+(cshogun
 _sg_reconstructor
 p0
-(cmodshogun
+(cshogun
 RealFeatures
 p1
 c__builtin__
@@ -23,7 +23,7 @@ S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nproperti
 p9
 tp10
 bg0
-(cmodshogun
+(cshogun
 MulticlassLabels
 p11
 g2

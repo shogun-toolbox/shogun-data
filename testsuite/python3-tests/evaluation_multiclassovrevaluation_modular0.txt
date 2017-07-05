@@ -1,9 +1,9 @@
 (F0.92800882167611853
 F0.71739130434782605
-cmodshogun
+cshogun
 _sg_reconstructor
 p0
-(cmodshogun
+(cshogun
 MulticlassLabels
 p1
 c__builtin__
@@ -23,7 +23,7 @@ tp8
 Rp9
 tp10
 bg0
-(cmodshogun
+(cshogun
 MulticlassLibLinear
 p11
 g2

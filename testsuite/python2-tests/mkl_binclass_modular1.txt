@@ -1,7 +1,7 @@
-(cmodshogun
+(cshogun
 _sg_reconstructor
 p0
-(S'modshogun.BinaryLabels'
+(S'shogun.BinaryLabels'
 p1
 c__builtin__
 object
@@ -13,7 +13,7 @@ S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 1\nsubset_s
 p5
 tp6
 bg0
-(S'modshogun.CombinedKernel'
+(S'shogun.CombinedKernel'
 p7
 g2
 Ntp8

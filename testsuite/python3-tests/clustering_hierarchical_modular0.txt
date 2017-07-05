@@ -1,7 +1,7 @@
-(cmodshogun
+(cshogun
 _sg_reconstructor
 p0
-(cmodshogun
+(cshogun
 Hierarchical
 p1
 c__builtin__

@@ -7,7 +7,7 @@ aS'parameter_list=[[strings]]'
 p3
 aS'def features_string_char_modular (strings):'
 p4
-aS'\tfrom modshogun import StringCharFeatures, RAWBYTE'
+aS'\tfrom shogun import StringCharFeatures, RAWBYTE'
 p5
 aS'\tfrom numpy import array'
 p6
@@ -41,10 +41,10 @@ aS"\tprint('StringCharFeatures')"
 p20
 aS'\tfeatures_string_char_modular(*parameter_list[0])'
 p21
-acmodshogun
+acshogun
 _sg_reconstructor
 p22
-(cmodshogun
+(cshogun
 StringCharFeatures
 p23
 c__builtin__

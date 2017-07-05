@@ -1,7 +1,7 @@
 (ccopy_reg
 _reconstructor
 p0
-(cmodshogun
+(cshogun
 Labels
 p1
 c__builtin__
@@ -14,7 +14,7 @@ S'<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>\nversion_parameter int32 0\nlabels S
 p5
 tp6
 bg0
-(cmodshogun
+(cshogun
 LibSVMMultiClass
 p7
 g2

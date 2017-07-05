@@ -45,10 +45,10 @@ g5
 tp18
 Rp19
 tp20
-bcmodshogun
+bcshogun
 _sg_reconstructor
 p21
-(cmodshogun
+(cshogun
 KMeans
 p22
 c__builtin__

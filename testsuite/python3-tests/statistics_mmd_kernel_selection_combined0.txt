@@ -1,7 +1,7 @@
-(cmodshogun
+(cshogun
 _sg_reconstructor
 p0
-(Vmodshogun.CombinedKernel
+(Vshogun.CombinedKernel
 p1
 c__builtin__
 object

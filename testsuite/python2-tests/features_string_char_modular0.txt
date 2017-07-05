@@ -11,10 +11,10 @@ aS'a'
 p5
 aS'string'
 p6
-acmodshogun
+acshogun
 _sg_reconstructor
 p7
-(cmodshogun
+(cshogun
 StringCharFeatures
 p8
 c__builtin__

@@ -1,7 +1,7 @@
-(cmodshogun
+(cshogun
 _sg_reconstructor
 p0
-(cmodshogun
+(cshogun
 RealFeatures
 p1
 c__builtin__
@@ -34,7 +34,7 @@ tp14
 Rp15
 tp16
 bg0
-(cmodshogun
+(cshogun
 MulticlassLabels
 p17
 g2

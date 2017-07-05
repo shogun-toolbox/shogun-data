@@ -37,7 +37,7 @@ tp14
 bccopy_reg
 _reconstructor
 p15
-(cmodshogun
+(cshogun
 ByteFeatures
 p16
 c__builtin__
