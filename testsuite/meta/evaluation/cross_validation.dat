@@ -4,17 +4,17 @@ value float64 1
 ]}{Serializable float64 [
 value float64 0.001
 ]}{Serializable float64 [
-value float64 0.99375
+value float64 1
 ]}{Serializable float64 [
-value float64 0.008838834764831813
+value float64 0
 ]}{Serializable float64 [
 value float64 0.95
 ]}{Serializable float64 [
 value float64 0.001
 ]}{Serializable float64 [
-value float64 7.237490642459931
+value float64 8.685989833256837
 ]}{Serializable float64 [
-value float64 1.522624091344525
+value float64 2.658442961599026
 ]}{Serializable float64 [
 value float64 7.894374287053924
 ]})
