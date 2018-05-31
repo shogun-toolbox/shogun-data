@@ -1,9 +1,5 @@
 <<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>
-array Vector<SGSerializable*> 5 ({Serializable float64 [
-value float64 1
-]}{Serializable int32 [
-value int32 1000
-]}{VectorSerializable float64 [
+array Vector<SGSerializable*> 3 ({VectorSerializable float64 [
 value SGVector<float64> 2 ({0.5}{0.5})
 ]}{Serializable float64 [
 value float64 -0.01622334871123494
