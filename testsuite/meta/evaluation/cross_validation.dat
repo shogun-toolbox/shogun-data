@@ -1,20 +1,16 @@
 <<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>
-array Vector<SGSerializable*> 9 ({Serializable float64 [
+array Vector<SGSerializable*> 7 ({Serializable float64 [
 value float64 1
 ]}{Serializable float64 [
 value float64 0.001
 ]}{Serializable float64 [
+value float64 0.46875
+]}{Serializable float64 [
+value float64 0.008838834764831813
+]}{Serializable float64 [
 value float64 1
 ]}{Serializable float64 [
-value float64 0
-]}{Serializable float64 [
-value float64 0.95
-]}{Serializable float64 [
 value float64 0.001
-]}{Serializable float64 [
-value float64 6.889277475709861
-]}{Serializable float64 [
-value float64 0.1175079778727569
 ]}{Serializable float64 [
 value float64 7.894374287053924
 ]})
