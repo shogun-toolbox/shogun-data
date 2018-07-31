@@ -1,12 +1,16 @@
 <<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>
-array Vector<SGSerializable*> 4 ({Serializable float64 [
-value float64 -106.9986885330946
+array Vector<SGSerializable*> 6 ({Serializable float64 [
+value float64 0
 ]}{VectorSerializable float64 [
-value SGVector<float64> 1 ({3.31686678841997})
+value SGVector<float64> 1 ({0})
 ]}{Serializable float64 [
-value float64 11713.29860046717
+value float64 0.1
+]}{Serializable float64 [
+value float64 471.4097298936205
 ]}{VectorSerializable float64 [
-value SGVector<float64> 5 ({20.7928009757763}{21.87674338903704}{29.09846109894531}{19.90038206557885}{14.26080401159897})
+value SGVector<float64> 5 ({0}{0}{0}{0}{0})
+]}{VectorSerializable float64 [
+value SGVector<float64> 5 ({0.1}{0.1}{0.1}{0.1}{0.1})
 ]})
 resize_granularity int32 128
 use_sg_malloc bool t

@@ -12,7 +12,7 @@ value float64 0.95
 ]}{Serializable float64 [
 value float64 0.001
 ]}{Serializable float64 [
-value float64 11713.29860046717
+value float64 471.4097298936205
 ]})
 resize_granularity int32 128
 use_sg_malloc bool t
