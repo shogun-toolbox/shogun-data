@@ -2,9 +2,9 @@
 array Vector<SGSerializable*> 3 ({VectorSerializable float64 [
 value SGVector<float64> 2 ({0.9838725589631701}{1.067669661123868})
 ]}{Serializable float64 [
-value float64 0.6743216339584787
+value float64 -0.6547578911876508
 ]}{Serializable float64 [
-value float64 1
+value float64 0.95
 ]})
 resize_granularity int32 128
 use_sg_malloc bool t
