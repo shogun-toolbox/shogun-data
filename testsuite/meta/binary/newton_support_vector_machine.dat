@@ -1,16 +1,1 @@
-<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>
-array Vector<SGSerializable*> 4 ({VectorSerializable float64 [
-value SGVector<float64> 2 ({0.650070144560659}{0.6398374522576915})
-]}{Serializable float64 [
-value float64 -0.1690445308697426
-]}{Serializable float64 [
-value float64 0.95
-]}{VectorSerializable float64 [
-value SGVector<float64> 20 ({1}{1}{-1}{1}{-1}{-1}{1}{1}{1}{-1}{-1}{1}{1}{-1}{1}{1}{1}{-1}{-1}{-1})
-]})
-resize_granularity int32 128
-use_sg_malloc bool t
-free_array bool t
-dim1_size int32 1
-dim2_size int32 1
-dim3_size int32 1
+{"name":"DynamicObjectArray","generic":13,"parameters":{"array":[{"name":"VectorSerializable","generic":11,"parameters":{"name":"w","value":[0.6500701445606605,0.6398374522576915]}},{"name":"Serializable","generic":11,"parameters":{"name":"b","value":-0.16904453086974279}},{"name":"Serializable","generic":11,"parameters":{"name":"accuracy","value":0.95}},{"name":"VectorSerializable","generic":11,"parameters":{"name":"output","value":[1.0,1.0,-1.0,1.0,-1.0,-1.0,1.0,1.0,1.0,-1.0,-1.0,1.0,1.0,-1.0,1.0,1.0,1.0,-1.0,-1.0,-1.0]}}],"dim1_size":1,"dim2_size":1}}

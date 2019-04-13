@@ -1,13 +1,1 @@
-<<_SHOGUN_SERIALIZABLE_ASCII_FILE_V_00_>>
-array Vector<SGSerializable*> 2 ({MatrixSerializable float64 [
-value SGMatrix<float64> 2 2 ({-1.940083486408444}{-1.851419934677169}{2.079965218581331}{1.968426346665863})
-]}{VectorSerializable float64 [
-value SGVector<float64> 2 ({5.545450135343403}{5.545450135343403})
-]})
-num_elements int32 2
-resize_granularity int32 128
-use_sg_malloc bool t
-free_array bool t
-dim1_size int32 1
-dim2_size int32 1
-dim3_size int32 1
+{"name":"DynamicObjectArray","generic":13,"parameters":{"array":[{"name":"MatrixSerializable","generic":11,"parameters":{"name":"c","value":[[-1.9400834864084443,-1.8514199346771692],[2.0799652185813315,1.968426346665863]]}},{"name":"VectorSerializable","generic":11,"parameters":{"name":"r","value":[5.545450135343403,5.545450135343403]}}],"dim1_size":1,"dim2_size":1}}
