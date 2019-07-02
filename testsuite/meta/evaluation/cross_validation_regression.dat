@@ -1,1 +1,1 @@
-{"name":"DynamicObjectArray","generic":13,"parameters":{"array":[{"name":"Serializable","generic":11,"parameters":{"name":"mean","value":117.24821936638148}},{"name":"Serializable","generic":11,"parameters":{"name":"stddev","value":70.57459243581137}}],"dim1_size":1,"dim2_size":1}}
+{"name":"DynamicObjectArray","generic":13,"parameters":{"array":[{"name":"Serializable","generic":11,"parameters":{"name":"mean","value":116.77779550882986}},{"name":"Serializable","generic":11,"parameters":{"name":"stddev","value":70.00410589232682}}],"dim1_size":1,"dim2_size":1}}
