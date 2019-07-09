@@ -1,0 +1,1 @@
+{"name":"DynamicObjectArray","generic":13,"parameters":{"array":[{"name":"VectorSerializable","generic":11,"parameters":{"name":"weights","value":[-0.2589453457611649,-0.2531010599488328]}},{"name":"Serializable","generic":11,"parameters":{"name":"bias","value":-0.21528377526853866}}],"dim1_size":1,"dim2_size":1}}
